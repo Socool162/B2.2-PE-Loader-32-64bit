@@ -6,3 +6,5 @@ Mô phỏng quá trình load một file PE như Windows PE Loader:
 
 Xử lý lỗi:
 + kiểm tra hợp lệ định dạng PE, cấu trúc header, section size, tránh crash khi dữ liệu sai...
+
+**2 file check_.exe chỉ để so sánh output với cff explorer (được liệt kê trong file report).  
